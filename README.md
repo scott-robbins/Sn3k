@@ -9,4 +9,4 @@ with itself. The game will keep track of a high score, so you can try and outdo 
 
 ![game](https://raw.githubusercontent.com/scott-robbins/Sn3k/master/game.png)
 
-Here's a video of some [gameplay](https://raw.githubusercontent.com/scott-robbins/Sn3k/master/gameplay.mp4)
+Here's a video of some ![gameplay](https://www.youtube.com/watch?v=TG4xyBUSPMQ)
